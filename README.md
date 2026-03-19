@@ -187,11 +187,6 @@ MAIL_DEFAULT_SENDER=your_email@gmail.com
 
 ---
 
-# 📈 Screenshots
-
-(You can add screenshots here later)
-
----
 
 # 🎯 Future Improvements
 
