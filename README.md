@@ -220,6 +220,33 @@ AI-Integrated Business Intelligence System for Small Businesses.
 
 This project is licensed under the MIT License.
 
+## 📸 Screenshots
+
+<h3>🌐 Application Interface 7 Login </h3>
+<p align="center">
+  <img src="assets/img1.png" width="650">
+</p>
+
+<h3>🔐  Registration</h3>
+<p align="center">
+  <img src="assets/img2.png" width="650">
+</p>
+
+<h3>👑 Owner Dashboard</h3>
+<p align="center">
+  <img src="assets/img3.png" width="650">
+</p>
+
+<h3>💼 Accountant Dashboard</h3>
+<p align="center">
+  <img src="assets/img4.png" width="650">
+</p>
+
+<h3>👨‍🍳 Staff Dashboard</h3>
+<p align="center">
+  <img src="assets/img5.png" width="650">
+</p>
+
 
 ## 👨‍💻 Author
 
