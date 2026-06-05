@@ -219,3 +219,11 @@ AI-Integrated Business Intelligence System for Small Businesses.
 # 📜 License
 
 This project is licensed under the MIT License.
+
+
+## 👨‍💻 Author
+
+Venkat Laxmi Gottam
+
+⭐ If you like this project, don’t forget to star the repo!
+
